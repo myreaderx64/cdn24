@@ -1,0 +1,1311 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta content="IE=edge" http-equiv=X-UA-Compatible />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="es" />
+
+
+    <meta name="robots" content="INDEX,FOLLOW" />
+
+
+    
+        <meta name="title" content="Empresa en red | Fundaci&#243;n Ibercaja" />
+            <meta name="description" content="Empresa en red es una plataforma digital de Fundaci&#243;n Ibercaja dirigida a profesionales, empresas y emprendedores para impulsar la mejora de la empleabilidad y la transformaci&#243;n e innovaci&#243;n de sus negocios." />
+            <meta name="keywords" content="empresa, actividades, ibercaja, fundaci&#243;n ibercaja" />
+            <meta name="author" content="Fundaci&#243;n Ibercaja" />
+
+
+        <meta property="og:description" content="Empresa en red es una plataforma digital de Fundaci&#243;n Ibercaja dirigida a profesionales, empresas y emprendedores para impulsar la mejora de la empleabilidad y la transformaci&#243;n e innovaci&#243;n de sus negocios." />
+            <meta property="og:title" content="Empresa en red | Fundaci&#243;n Ibercaja" />
+            
+
+
+    <meta name="lang" id="lang" content="es" />
+    <meta name="dc.language" content="es" />
+    
+    
+        <link hreflang="es" href="/" rel="alternate" />
+    <link href="/favicon.ico" rel="apple-touch-icon" />
+    <link href="/favicon.ico" rel="icon" />
+    <title>Empresa en red | Fundaci&#243;n Ibercaja</title>
+
+    <script src="/bundles/modernizr?v=GmyYhO--Cd43e_FIjLzorTl740vYZu0-X6rP5KcwdqI1"></script>
+
+
+    <link href="/bundles/css/core?v=UIbePZOFKxVb87Sp564NEimZ2u2d-k8mbIrCAejduio1" rel="stylesheet"/>
+
+
+    <!-- Google Tag Manager -->
+<script>
+        (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TSS4L2M');</script>
+<!-- End Google Tag Manager -->
+
+
+</head>
+
+<body class="css-front" data-culture="es" data-cookie-domain="" data-cookie-check-url="" data-seoentity="" data-seoidentity="">
+    <!-- Google Tag Manager (noscript) -->
+
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSS4L2M" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+    <div class="track-notification-bar">
+        <div id="template-notif-gral" class="notif-gral sticky-bar notification-bar alert fade in alert-dismissable" style="display: none;">
+            <div class="noticifaction-content centrar-vertical">
+                <div class="icon">
+                    <div></div>
+                </div>
+                <button type="button" class="close link-close-bar" data-dismiss="alert" aria-hidden="true">×</button>
+                <p style="text-align: center;"></p>
+            </div>
+        </div>
+    </div>
+
+    <div id="loading" class="loading" style="display: none;">
+    <div class="spinner-loading">
+        <div class="dot1"></div>
+        <div class="dot2"></div>
+    </div>
+</div>
+
+
+
+
+
+    <div id="cookie-wrapper-objeto" style="display: none;">
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <p>En Ibercaja utilizamos cookies propias y de terceros para mejorar tu experiencia de usuario y ofrecerte los mejores servicios. Si navegas por nuestra plataforma, estarás aceptando su uso. Puedes obtener más información o bien conocer cómo cambiar la configuración de tu navegador en nuestra <a href="https://www.fundacionbancariaibercaja.es/avisos-legales/politica-de-privacidad/" target="_blank">Política de privacidad</a> y  <a href="https://www.fundacionbancariaibercaja.es/avisos-legales/politica-de-cookies/" target="_blank">Política de cookies</a>.</p>
+                <a class="btn btn-white" href="javascript:AceptarCookies();">Aceptar</a>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="App">
+
+
+        <!--=== Header ===-->
+        
+
+
+<header>
+    
+    <div class="HeaderContainer">
+        <div class="container">
+            <div class="HeaderContainer-top">
+                <ul>
+                        <li>
+                            <a href="/es/login"  rel="nofollow">
+                                <i class="fas fa-user"></i>
+                                <span>Iniciar sesi&#243;n</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/es/register" rel="nofollow">
+                                <i class="fas fa-edit"></i>
+                                <span>Registrarse</span>
+                            </a>
+                        </li>
+
+                    <li>
+                        <a href="/es/contacto" rel="nofollow">
+                            <i class="fas fa-envelope"></i>
+                            <span>Contacto</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="d-flex justify-content-between align-items-center">
+                <div class="HeaderContainer-left">
+                    <button id="btn-main-menu" type="button">
+                        <i>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </i>
+                        <span data-text-open="Men&#250;" data-text-close="CERRAR">Men&#250;</span>
+                    </button>
+                    <a href="/">
+                        <span>Empresa</span>
+                        <span>en red</span>
+                    </a>
+                </div>
+                
+                <div class="HeaderContainer-right">
+                    
+                    <a href="https://www.fundacionibercaja.es/" target="_blank" title="FUNDACI&#211;N IBERCAJA">
+                        <img src="/ContentNew/Images/Logos/fundacion-ibercaja-logo.png" style="border:none;" alt="FUNDACI&#211;N IBERCAJA" />
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="MainMenuContainer">
+        <div class="MainMenu">
+            <div class="MainMenu-header">
+                <button type="button">
+                    <i></i>
+                    <span></span>
+                </button>
+                <a href="https://www.fundacionbancariaibercaja.es/home/" target="_blank" title="FUNDACI&#211;N IBERCAJA">
+                    <img src="/ContentNew/Images/Logos/fundacion-ibercaja-logo-w.png" style="border:none;" alt="FUNDACI&#211;N IBERCAJA" />
+                </a>
+            </div>
+            <div class="container">
+
+                <nav>
+                    <ul>
+                            <li>
+        <a href="javascript:void(0)">&#193;reas</a>
+        <ul>
+                <li><a href="/es/area/desarrollo-de-personas">Desarrollo de personas</a></li>
+                <li><a href="/es/area/innovacion-y-modelos-de-negocio">Innovacion y modelos de negocio</a></li>
+                <li><a href="/es/area/transformacion-digital">Transformaci&#243;n digital</a></li>
+                <li><a href="/es/area/direccion-y-estrategia">Direcci&#243;n y Estrategia</a></li>
+                <li><a href="/es/area/gestion-y-organizacion">Gesti&#243;n y Organizaci&#243;n</a></li>
+                <li><a href="/es/area/ventas-y-mercado">Ventas y Mercado</a></li>
+            <li><a href="https://agroinforma.ibercaja.es" target="_blank">Sector Agroalimentario</a></li>
+        </ul>
+    </li>
+
+    <li>
+        <a href="javascript:void(0)">A tu medida</a>
+        <ul>
+                <li><a href="/es/a-tu-medida/para-gerentes-directivos-y-responsables-de-area">Para Gerentes, Directivos y Responsables de &#193;rea</a></li>
+                <li><a href="/es/a-tu-medida/para-emprendedores">Para Emprendedores</a></li>
+                <li><a href="/es/a-tu-medida/para-profesionales">Para profesionales</a></li>
+                <li><a href="/es/a-tu-medida/para-pymes">Para Pymes</a></li>
+        </ul>
+    </li>
+
+    <li>
+        <a href="javascript:void(0)">Actividades y Publicaciones</a>
+        <ul>
+            
+            <li><a href="/es/actividades-y-publicaciones/actividades-gratuitas"><i class="fas fa-group-5"></i> <span>Actividades Gratuitas</span></a></li>
+                <li><a href="/es/actividades-y-publicaciones/ciclos-y-programas"><i class="fas fa-group-1"></i> <span>Ciclos y programas</span></a></li>
+                <li><a href="/es/actividades-y-publicaciones/conferencias-y-mesas-redondas"><i class="fas fa-group-2"></i> <span>Conferencias y mesas redondas</span></a></li>
+                <li><a href="/es/actividades-y-publicaciones/cursos-y-talleres"><i class="fas fa-group-3"></i> <span>Cursos y talleres</span></a></li>
+                <li><a href="/es/actividades-y-publicaciones/presentaciones"><i class="fas fa-group-4"></i> <span>Presentaciones</span></a></li>
+                <li><a href="/es/actividades-y-publicaciones/servicios-a-empresas"><i class="fas fa-group-6"></i> <span>Servicios a empresas</span></a></li>
+            <li><a href="/es/actividades-y-publicaciones/articulos-y-videos"><i class="fas fa-file-alt"></i> <span>Art&#237;culos y v&#237;deos</span></a></li>
+
+
+            
+        </ul>
+    </li>
+
+                        <li>
+                            <a href="/es/agenda">Agenda</a>
+                            <a href="/es/quienes-somos/que-es-portal-de-empresas">Qui&#233;nes Somos</a>
+                            <a href="/es/contacto">Contacto</a>
+
+                                <a class="MainMenu-mobile mt-5" href="/es/login" rel="nofollow">Iniciar sesi&#243;n</a>
+                                <a class="MainMenu-mobile" href="/es/register" rel="nofollow">Registrarse</a>
+                                <div class="MiniLogin">
+                                    <h4>Iniciar sesi&#243;n</h4>
+                                    
+
+
+
+<div class="Form">
+    
+    <div class="Form-content">
+<form action="/es/login" method="post"><input name="__RequestVerificationToken" type="hidden" value="_JAB7PgL4r9XcwCMVRWoTklTkRzM25d_mUOaDi-3mmP-__RLaSa9_qHv-Mo5FCBaxdpH9nSUqVufuJS_ptg6hIRvtzxlGMNF5KmYPy9H03s1" />            <div class="form-group is-active-first" tabindex="1">
+                <label for="email">Correo electr&#243;nico</label>
+                <input class="form-control text-box single-line" data-val="true" data-val-cleantext="El campo Correo electrónico contiene secuencias no válidas en el siguiente texto: &lt;code>{0}&lt;/code>" data-val-length="La longitud máxima es de 100 caracteres" data-val-length-max="100" data-val-regex="El formato de email es incorrecto" data-val-regex-pattern="[a-zA-Z0-9!#$%&amp;&#39;*+/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&amp;&#39;*+/=?^_`{|}~-]+)*@(?:[a-zA-Z00-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+(?:[a-zA-Z]{2,5})" data-val-required="El campo Correo electrónico es obligatorio" id="email" name="email" placeholder="direccion@ejemplo.com" tabindex="1" type="email" value="" />
+                <span class="field-validation-valid" data-valmsg-for="email" data-valmsg-replace="true"></span>
+            </div>
+            <div class="form-group is-active-first d-flex flex-wrap justify-content-between align-items-end">
+                <label for="password">Contrase&#241;a</label>
+                <a href="/es/remember" class="btn-change-to-remember">&#191;Olvidaste tu contrase&#241;a?</a>
+                <input autocomplete="off" class="form-control password text-box single-line password" data-val="true" data-val-length="La longitud debe tener al menos 8 caracteres y como máximo 50" data-val-length-max="50" data-val-length-min="8" data-val-required="El campo Contraseña es obligatorio" id="password" name="password" placeholder="" tabindex="2" type="password" value="" />
+                <span class="field-validation-valid" data-valmsg-for="password" data-valmsg-replace="true"></span>
+            </div>
+            <div class="form-group form-btn">
+                <button type="submit" class="btn" tabindex="3">Acceder</button>
+            </div>
+</form>    </div>
+</div>
+
+         
+                                    <a href="/es/register" rel="nofollow">&#191;QUIERES REGISTRARTE?</a>
+                                </div>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div class="Search">
+        
+<div id="search-form-mini" class="search-form-mini">
+    <div class="container">
+<form action="/es/buscador" data-search="true" method="post">            <div class="Search-input">
+                <button type="button" id="filters-button" class="Search-input--filter" data-filter-header>FILTRAR</button>
+                <input class="form-control text-box single-line" id="filt_txt_nv" name="filt_txt_nv" placeholder=" " type="text" value="" />
+
+                <div class="Search-filter">
+                    <div class="Search-filter--header">
+                        <button type="button">
+                            <i></i>
+                            <span></span>
+                        </button>
+                        <a href="https://www.fundacionbancariaibercaja.es/home/" target="_blank" title="FUNDACI&#211;N IBERCAJA">
+                            <img src="/ContentNew/Images/Logos/fundacion-ibercaja-logo-w.png" style="border:none;" alt="FUNDACI&#211;N IBERCAJA" />
+                        </a>
+                    </div>
+                    <div class="Search-filter--content">
+
+                        <div class="row">
+                            <div class="col-md-6 col-lg-4 row-md-col-6-margins row-lg-col-4-margins">
+                                <div class="list">
+                                    <h4>&#193;REAS EMPRESARIALES:</h4>
+                                    <ul>
+                                        <li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="AreaItems_0__Id" name="AreaItems[0].Id" type="hidden" value="3" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="AreaItems_0__Value" name="AreaItems[0].Value" type="checkbox" value="true" /><input name="AreaItems[0].Value" type="hidden" value="false" />
+    <input id="AreaItems_0__Label" name="AreaItems[0].Label" type="hidden" value="Desarrollo de personas" />
+    <label for="AreaItems_0__Value">Desarrollo de personas</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="AreaItems_1__Id" name="AreaItems[1].Id" type="hidden" value="2" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="AreaItems_1__Value" name="AreaItems[1].Value" type="checkbox" value="true" /><input name="AreaItems[1].Value" type="hidden" value="false" />
+    <input id="AreaItems_1__Label" name="AreaItems[1].Label" type="hidden" value="Innovacion y modelos de negocio" />
+    <label for="AreaItems_1__Value">Innovacion y modelos de negocio</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="AreaItems_2__Id" name="AreaItems[2].Id" type="hidden" value="1" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="AreaItems_2__Value" name="AreaItems[2].Value" type="checkbox" value="true" /><input name="AreaItems[2].Value" type="hidden" value="false" />
+    <input id="AreaItems_2__Label" name="AreaItems[2].Label" type="hidden" value="Transformación digital" />
+    <label for="AreaItems_2__Value">Transformaci&#243;n digital</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="AreaItems_3__Id" name="AreaItems[3].Id" type="hidden" value="5" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="AreaItems_3__Value" name="AreaItems[3].Value" type="checkbox" value="true" /><input name="AreaItems[3].Value" type="hidden" value="false" />
+    <input id="AreaItems_3__Label" name="AreaItems[3].Label" type="hidden" value="Dirección y Estrategia" />
+    <label for="AreaItems_3__Value">Direcci&#243;n y Estrategia</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="AreaItems_4__Id" name="AreaItems[4].Id" type="hidden" value="6" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="AreaItems_4__Value" name="AreaItems[4].Value" type="checkbox" value="true" /><input name="AreaItems[4].Value" type="hidden" value="false" />
+    <input id="AreaItems_4__Label" name="AreaItems[4].Label" type="hidden" value="Gestión y Organización" />
+    <label for="AreaItems_4__Value">Gesti&#243;n y Organizaci&#243;n</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="AreaItems_5__Id" name="AreaItems[5].Id" type="hidden" value="7" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="AreaItems_5__Value" name="AreaItems[5].Value" type="checkbox" value="true" /><input name="AreaItems[5].Value" type="hidden" value="false" />
+    <input id="AreaItems_5__Label" name="AreaItems[5].Label" type="hidden" value="Ventas y Mercado" />
+    <label for="AreaItems_5__Value">Ventas y Mercado</label>
+</li>
+                                    </ul>
+                                </div>
+                                <div class="list">
+                                    <h4>PERFILES:</h4>
+                                    <ul>
+                                        <li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="ProfileItems_0__Id" name="ProfileItems[0].Id" type="hidden" value="5" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="ProfileItems_0__Value" name="ProfileItems[0].Value" type="checkbox" value="true" /><input name="ProfileItems[0].Value" type="hidden" value="false" />
+    <input id="ProfileItems_0__Label" name="ProfileItems[0].Label" type="hidden" value="Para Gerentes, Directivos y Responsables de Área" />
+    <label for="ProfileItems_0__Value">Para Gerentes, Directivos y Responsables de &#193;rea</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="ProfileItems_1__Id" name="ProfileItems[1].Id" type="hidden" value="1" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="ProfileItems_1__Value" name="ProfileItems[1].Value" type="checkbox" value="true" /><input name="ProfileItems[1].Value" type="hidden" value="false" />
+    <input id="ProfileItems_1__Label" name="ProfileItems[1].Label" type="hidden" value="Para Emprendedores" />
+    <label for="ProfileItems_1__Value">Para Emprendedores</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="ProfileItems_2__Id" name="ProfileItems[2].Id" type="hidden" value="2" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="ProfileItems_2__Value" name="ProfileItems[2].Value" type="checkbox" value="true" /><input name="ProfileItems[2].Value" type="hidden" value="false" />
+    <input id="ProfileItems_2__Label" name="ProfileItems[2].Label" type="hidden" value="Para profesionales" />
+    <label for="ProfileItems_2__Value">Para profesionales</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="ProfileItems_3__Id" name="ProfileItems[3].Id" type="hidden" value="3" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="ProfileItems_3__Value" name="ProfileItems[3].Value" type="checkbox" value="true" /><input name="ProfileItems[3].Value" type="hidden" value="false" />
+    <input id="ProfileItems_3__Label" name="ProfileItems[3].Label" type="hidden" value="Para Pymes" />
+    <label for="ProfileItems_3__Value">Para Pymes</label>
+</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4">
+                                <div class="list">
+                                    <h4>TIPO DE CONTENIDO:</h4>
+                                    <ul>
+                                        <li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="AgrpNotItems_0__Id" name="AgrpNotItems[0].Id" type="hidden" value="1" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="AgrpNotItems_0__Value" name="AgrpNotItems[0].Value" type="checkbox" value="true" /><input name="AgrpNotItems[0].Value" type="hidden" value="false" />
+    <input id="AgrpNotItems_0__Label" name="AgrpNotItems[0].Label" type="hidden" value="Ciclos y programas" />
+    <label for="AgrpNotItems_0__Value">Ciclos y programas</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="AgrpNotItems_1__Id" name="AgrpNotItems[1].Id" type="hidden" value="2" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="AgrpNotItems_1__Value" name="AgrpNotItems[1].Value" type="checkbox" value="true" /><input name="AgrpNotItems[1].Value" type="hidden" value="false" />
+    <input id="AgrpNotItems_1__Label" name="AgrpNotItems[1].Label" type="hidden" value="Conferencias y mesas redondas" />
+    <label for="AgrpNotItems_1__Value">Conferencias y mesas redondas</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="AgrpNotItems_2__Id" name="AgrpNotItems[2].Id" type="hidden" value="3" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="AgrpNotItems_2__Value" name="AgrpNotItems[2].Value" type="checkbox" value="true" /><input name="AgrpNotItems[2].Value" type="hidden" value="false" />
+    <input id="AgrpNotItems_2__Label" name="AgrpNotItems[2].Label" type="hidden" value="Cursos y talleres" />
+    <label for="AgrpNotItems_2__Value">Cursos y talleres</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="AgrpNotItems_3__Id" name="AgrpNotItems[3].Id" type="hidden" value="4" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="AgrpNotItems_3__Value" name="AgrpNotItems[3].Value" type="checkbox" value="true" /><input name="AgrpNotItems[3].Value" type="hidden" value="false" />
+    <input id="AgrpNotItems_3__Label" name="AgrpNotItems[3].Label" type="hidden" value="Presentaciones" />
+    <label for="AgrpNotItems_3__Value">Presentaciones</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="AgrpNotItems_4__Id" name="AgrpNotItems[4].Id" type="hidden" value="6" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="AgrpNotItems_4__Value" name="AgrpNotItems[4].Value" type="checkbox" value="true" /><input name="AgrpNotItems[4].Value" type="hidden" value="false" />
+    <input id="AgrpNotItems_4__Label" name="AgrpNotItems[4].Label" type="hidden" value="Servicios a empresas" />
+    <label for="AgrpNotItems_4__Value">Servicios a empresas</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="AgrpNotItems_5__Id" name="AgrpNotItems[5].Id" type="hidden" value="0" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="AgrpNotItems_5__Value" name="AgrpNotItems[5].Value" type="checkbox" value="true" /><input name="AgrpNotItems[5].Value" type="hidden" value="false" />
+    <input id="AgrpNotItems_5__Label" name="AgrpNotItems[5].Label" type="hidden" value="Articulos y videos" />
+    <label for="AgrpNotItems_5__Value">Articulos y videos</label>
+</li>
+                                    </ul>
+                                </div>
+                                <div class="list">
+                                    <h4>PROVINCIAS:</h4>
+                                    <ul>
+                                        <li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="ProvinciaItems_0__Id" name="ProvinciaItems[0].Id" type="hidden" value="419" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="ProvinciaItems_0__Value" name="ProvinciaItems[0].Value" type="checkbox" value="true" /><input name="ProvinciaItems[0].Value" type="hidden" value="false" />
+    <input id="ProvinciaItems_0__Label" name="ProvinciaItems[0].Label" type="hidden" value="Guadalajara" />
+    <label for="ProvinciaItems_0__Value">Guadalajara</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="ProvinciaItems_1__Id" name="ProvinciaItems[1].Id" type="hidden" value="67" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="ProvinciaItems_1__Value" name="ProvinciaItems[1].Value" type="checkbox" value="true" /><input name="ProvinciaItems[1].Value" type="hidden" value="false" />
+    <input id="ProvinciaItems_1__Label" name="ProvinciaItems[1].Label" type="hidden" value="Huesca" />
+    <label for="ProvinciaItems_1__Value">Huesca</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="ProvinciaItems_2__Id" name="ProvinciaItems[2].Id" type="hidden" value="26" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="ProvinciaItems_2__Value" name="ProvinciaItems[2].Value" type="checkbox" value="true" /><input name="ProvinciaItems[2].Value" type="hidden" value="false" />
+    <input id="ProvinciaItems_2__Label" name="ProvinciaItems[2].Label" type="hidden" value="La Rioja" />
+    <label for="ProvinciaItems_2__Value">La Rioja</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="ProvinciaItems_3__Id" name="ProvinciaItems[3].Id" type="hidden" value="207" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="ProvinciaItems_3__Value" name="ProvinciaItems[3].Value" type="checkbox" value="true" /><input name="ProvinciaItems[3].Value" type="hidden" value="false" />
+    <input id="ProvinciaItems_3__Label" name="ProvinciaItems[3].Label" type="hidden" value="Teruel" />
+    <label for="ProvinciaItems_3__Value">Teruel</label>
+</li><li>
+    <input data-val="true" data-val-number="El campo Id debe ser un número." data-val-required="El campo Id es obligatorio." id="ProvinciaItems_4__Id" name="ProvinciaItems[4].Id" type="hidden" value="116" />
+    <input data-val="true" data-val-required="El campo Value es obligatorio." id="ProvinciaItems_4__Value" name="ProvinciaItems[4].Value" type="checkbox" value="true" /><input name="ProvinciaItems[4].Value" type="hidden" value="false" />
+    <input id="ProvinciaItems_4__Label" name="ProvinciaItems[4].Label" type="hidden" value="Zaragoza" />
+    <label for="ProvinciaItems_4__Value">Zaragoza</label>
+</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-4 Search-filter--content---lastColumn">
+                                <div>
+                                    <h4>PER&#205;ODO</h4>
+                                    <div class="Search-filter--content---dates">
+                                        <div><span>Del</span><span>
+
+
+
+<input type="text" class="datepicker form-control"
+       id="Start_d"
+       name="Start_d"
+       data-val="true"
+       
+       data-format="DD/MM/YYYY HH:mm"
+       
+       
+       value="" /></span></div>
+                                        <div><span>al</span><span>
+
+
+
+<input type="text" class="datepicker form-control"
+       id="End_d"
+       name="End_d"
+       data-val="true"
+       
+       data-format="DD/MM/YYYY HH:mm"
+       
+       
+       value="" /></span></div>
+                                    </div>
+                                </div>
+                                <div class="Search-filter--buttons">
+                                    <button type="button" class="clear-fields">LIMPIAR FILTROS</button>
+                                    <button type="submit" class="btn btn-primary search-submit">Buscar</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn is-white">Buscar</button>
+</form>    </div>
+    </div>
+
+
+
+    </div>
+
+</header>
+
+        <!--=== End Header ===-->
+
+        <main>
+
+
+            
+
+
+
+
+
+
+<div class="IntroHome">
+    
+
+    <div class="Slider">
+        <div id="homeSlider" class="swiper-container" data-slides="1">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide"><div class="Slider-slide">            	<img class="img-background" src="https://empresaenredcdn.fundacionibercaja.es/lib/editor/prueba/Portada-Empresaenred.jpg" alt="">	<br>            	<div class="container">                		<div class="Slider-slide--text">                    			<h2>                        EMPRESA EN RED                     			</h2>                    			<p>                        SERVICIO PARA EMPRESAS DE FUNDACIÓN IBERCAJA                    			</p>                    			<a href="https://empresaenred.fundacionibercaja.es/es/agenda" class="btn is-white" target="_blank">VER AGENDA DE ACTIVIDADES			</a>                		</div>            	</div>        </div></div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="container">
+        <div class="MenuActivities">
+            <ul>
+                        <li>
+                            <a href="/es/area/desarrollo-de-personas">
+                                <div class="MenuActivities-item">
+                                    <div class="MenuActivities-item--icon">
+                                        <img src="/ContentNew/Images/Icons/Illustration/homeicon-3.png" alt="Desarrollo de personas" />
+                                    </div>
+                                    <span class="MenuActivities-item--text">
+                                        Desarrollo de personas
+                                    </span>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/es/area/innovacion-y-modelos-de-negocio">
+                                <div class="MenuActivities-item">
+                                    <div class="MenuActivities-item--icon">
+                                        <img src="/ContentNew/Images/Icons/Illustration/homeicon-2.png" alt="Innovacion y modelos de negocio" />
+                                    </div>
+                                    <span class="MenuActivities-item--text">
+                                        Innovacion y modelos de negocio
+                                    </span>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/es/area/transformacion-digital">
+                                <div class="MenuActivities-item">
+                                    <div class="MenuActivities-item--icon">
+                                        <img src="/ContentNew/Images/Icons/Illustration/homeicon-1.png" alt="Transformaci&#243;n digital" />
+                                    </div>
+                                    <span class="MenuActivities-item--text">
+                                        Transformaci&#243;n digital
+                                    </span>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/es/area/direccion-y-estrategia">
+                                <div class="MenuActivities-item">
+                                    <div class="MenuActivities-item--icon">
+                                        <img src="/ContentNew/Images/Icons/Illustration/homeicon-5.png" alt="Direcci&#243;n y Estrategia" />
+                                    </div>
+                                    <span class="MenuActivities-item--text">
+                                        Direcci&#243;n y Estrategia
+                                    </span>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/es/area/gestion-y-organizacion">
+                                <div class="MenuActivities-item">
+                                    <div class="MenuActivities-item--icon">
+                                        <img src="/ContentNew/Images/Icons/Illustration/homeicon-6.png" alt="Gesti&#243;n y Organizaci&#243;n" />
+                                    </div>
+                                    <span class="MenuActivities-item--text">
+                                        Gesti&#243;n y Organizaci&#243;n
+                                    </span>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/es/area/ventas-y-mercado">
+                                <div class="MenuActivities-item">
+                                    <div class="MenuActivities-item--icon">
+                                        <img src="/ContentNew/Images/Icons/Illustration/homeicon-7.png" alt="Ventas y Mercado" />
+                                    </div>
+                                    <span class="MenuActivities-item--text">
+                                        Ventas y Mercado
+                                    </span>
+                                </div>
+                            </a>
+                        </li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+
+
+
+    <div class="Section">
+        <div class="container">
+            <div class="Section-title">
+                <h2><a href="/es/agenda#">Agenda</a></h2>
+            </div>
+            <div class="Section-content">
+                <div class="row row-md-col-6-margins">
+
+
+<div class="col-md-6">
+    <div class="Activity ">
+
+        <a href="https://empresaenred.fundacionibercaja.es/es/actividad/master-en-direccion-y-gestion-estrategica-de-compras">
+                <div class="Activity-image">
+                    <div class="Activity-image--image">
+                        <img src="https://empresaenredcdn.fundacionibercaja.es/Activities/DD66EFF8EA0147664C8D385781C72CE9/AVATAR/FCA05E22BFB9D76D10FE1FCB5B203CF9/8795b1ba1e9cbeafafcb3efa55c3f3b423494380@0470x0280.jpg" alt="M&#225;ster en Direcci&#243;n y Gesti&#243;n estrat&#233;gica de compras" title="M&#225;ster en Direcci&#243;n y Gesti&#243;n estrat&#233;gica de compras">
+                    </div>
+                </div>
+
+                <div class="Activity-info">
+                    <h3 class="Activity-info--title">
+                        <i class="fas fa-activity-11"></i>
+                        <span>M&#225;ster en Direcci&#243;n y Gesti&#243;n estrat&#233;gica de compras</span>
+                    </h3>
+
+                            <p>Del 14 de septiembre del 2020 al 18 de junio del 2021, Zaragoza</p>
+
+
+                </div>
+        </a>
+
+
+    </div>
+</div>
+
+
+
+
+
+<div class="col-md-6">
+    <div class="Activity ">
+
+        <a href="https://empresaenred.fundacionibercaja.es/es/actividad/master-executive-en-las-funciones-de-direccion-de-compras">
+                <div class="Activity-image">
+                    <div class="Activity-image--image">
+                        <img src="https://empresaenredcdn.fundacionibercaja.es/Activities/61FBFBE4DBD6D17F893B037FA50F0A7B/AVATAR/FCA05E22BFB9D76D10FE1FCB5B203CF9/db10d502bad564df265f675822c6297d84a1b9d8@0470x0280.png" alt="Master Executive en las Funciones de Direcci&#243;n de Compras" title="Master Executive en las Funciones de Direcci&#243;n de Compras">
+                    </div>
+                </div>
+
+                <div class="Activity-info">
+                    <h3 class="Activity-info--title">
+                        <i class="fas fa-activity-11"></i>
+                        <span>Master Executive en las Funciones de Direcci&#243;n de Compras</span>
+                    </h3>
+
+                            <p>Del 14 de septiembre del 2020 al 18 de junio del 2021, Zaragoza</p>
+
+
+                </div>
+        </a>
+
+
+    </div>
+</div>
+
+
+
+
+
+<div class="col-md-6">
+    <div class="Activity ">
+
+        <a href="https://empresaenred.fundacionibercaja.es/es/actividad/master-en-logistica-integral-y-compras-supply-chain-management">
+
+                <div class="Activity-info">
+                    <h3 class="Activity-info--title">
+                        <i class="fas fa-activity-11"></i>
+                        <span>M&#225;ster en Log&#237;stica Integral y Compras: Supply Chain Management</span>
+                    </h3>
+
+                            <p>Del 14 de septiembre del 2020 al 18 de junio del 2021, Zaragoza</p>
+
+
+                </div>
+        </a>
+
+
+    </div>
+</div>
+
+
+
+
+
+<div class="col-md-6">
+    <div class="Activity ">
+
+        <a href="https://empresaenred.fundacionibercaja.es/es/actividad/campus-de-oratoria-speaker-talent">
+
+                <div class="Activity-info">
+                    <h3 class="Activity-info--title">
+                        <i class="fas fa-activity-11"></i>
+                        <span>Campus de Oratoria Speaker Talent</span>
+                    </h3>
+
+                            <p>Del 16 al 19 de septiembre del 2020, Zaragoza</p>
+
+
+                </div>
+        </a>
+
+
+    </div>
+</div>
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="Section">
+        <div class="container">
+            <div class="Section-title">
+                <h2>
+                    <a href="/es/actividades-y-publicaciones/articulos-y-videos">Publicaciones</a>
+                </h2>
+
+            </div>
+            <div class="Section-content">
+                <div class="row row-md-col-6-margins">
+
+
+<div class="col-md-6">
+    <div class="Activity  is-video">
+
+        <a href="https://empresaenred.fundacionibercaja.es/es/actividades-y-publicaciones/articulos-y-videos/como-liderar-en-tiempos-de-incertidumbre">
+                <div class="Activity-image">
+                    <div class="Activity-image--image">
+                        <img src="https://empresaenredcdn.fundacionibercaja.es/Present/1249B959762274A7DD41981A3CEC2FA8/AVATAR/FCA05E22BFB9D76D10FE1FCB5B203CF9/72fce6b128c6e13feb83a038cc5f988558f88180@0470x0280.png" alt="Como liderar en tiempos de incertidumbre" title="Como liderar en tiempos de incertidumbre">
+                    </div>
+                </div>
+                <div class="Activity-info">
+                    <h3 class="Activity-info--title">
+                        <i class="fas fa-present-2"></i>
+                        <span>Como liderar en tiempos de incertidumbre</span>
+                    </h3>
+                                            <p>Publicado el 28 de julio del 2020 </p>
+                </div>
+        </a>
+     
+    </div>
+
+    </div>
+
+
+
+<div class="col-md-6">
+    <div class="Activity  is-video">
+
+        <a href="https://empresaenred.fundacionibercaja.es/es/actividades-y-publicaciones/articulos-y-videos/como-negociar-y-desarrollar-mi-negocio-internacionalmente-con-exito">
+                <div class="Activity-image">
+                    <div class="Activity-image--image">
+                        <img src="https://empresaenredcdn.fundacionibercaja.es/Present/48662B8847C1B8CA0F0283258CC7F52C/AVATAR/FCA05E22BFB9D76D10FE1FCB5B203CF9/31d699ec00c66dd4d1069ce0ec72db90e35399aa@0470x0280.jpg" alt="C&#243;mo negociar y desarrollar mi negocio internacionalmente con &#233;xito" title="C&#243;mo negociar y desarrollar mi negocio internacionalmente con &#233;xito">
+                    </div>
+                </div>
+                <div class="Activity-info">
+                    <h3 class="Activity-info--title">
+                        <i class="fas fa-present-2"></i>
+                        <span>C&#243;mo negociar y desarrollar mi negocio internacionalmente con &#233;xito</span>
+                    </h3>
+                                            <p>Publicado el 28 de julio del 2020 </p>
+                </div>
+        </a>
+     
+    </div>
+
+    </div>
+
+
+
+<div class="col-md-6">
+    <div class="Activity  is-video">
+
+        <a href="https://empresaenred.fundacionibercaja.es/es/actividades-y-publicaciones/articulos-y-videos/el-nuevo-lider-ante-el-reto-digital-mantener-y-fomentar-el-liderazgo-en-entornos-cambiantes">
+                <div class="Activity-info">
+                    <h3 class="Activity-info--title">
+                        <i class="fas fa-present-2"></i>
+                        <span>El nuevo l&#237;der ante el reto digital: Mantener y fomentar el liderazgo en entornos cambiantes</span>
+                    </h3>
+                                            <p>Publicado el 28 de julio del 2020 </p>
+                </div>
+        </a>
+     
+    </div>
+
+    </div>
+
+
+
+<div class="col-md-6">
+    <div class="Activity  is-video">
+
+        <a href="https://empresaenred.fundacionibercaja.es/es/actividades-y-publicaciones/articulos-y-videos/y-ahora-que-claves-de-gestion-economica-legal-y-fiscal-en-la-empresa-para-afrontar-el-nuevo-escenario">
+                <div class="Activity-info">
+                    <h3 class="Activity-info--title">
+                        <i class="fas fa-present-2"></i>
+                        <span>Y ahora &#191;Qu&#233;?. Claves de gesti&#243;n econ&#243;mica, legal y fiscal en la empresa para afrontar el nuevo escenario</span>
+                    </h3>
+                                            <p>Publicado el 10 de junio del 2020 </p>
+                </div>
+        </a>
+     
+    </div>
+
+    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="Section">
+    <div class="container">
+        <div class="Section-title">
+            <h2>
+
+                <a href="/es/quienes-somos/actualidad">ACTUALIDAD</a>
+            </h2>
+        </div>
+        <div class="Section-content">
+            <div class="row row-md-col-6-margins m-b-40">
+
+
+<div class="col-md-6">
+    <div class="Activity  ">
+
+        <a href="https://empresaenred.fundacionibercaja.es/es/quienes-somos/actualidad/firma-de-convenio-de-colaboracion-entre-fundacion-ibercaja-y-kuhnel">
+                <div class="Activity-image">
+                    <div class="Activity-image--image">
+                        <img src="https://empresaenredcdn.fundacionibercaja.es/Present/3A33606F6E132F6F27AF26774FBE9E4F/AVATAR/FCA05E22BFB9D76D10FE1FCB5B203CF9/f204740a525d7bb445c153eb17e1892c1ea2ce89@0470x0280.jpg" alt="Firma de convenio de colaboraci&#243;n entre Fundaci&#243;n Ibercaja y K&#252;hnel" title="Firma de convenio de colaboraci&#243;n entre Fundaci&#243;n Ibercaja y K&#252;hnel">
+                    </div>
+                </div>
+                <div class="Activity-info">
+                    <h3 class="Activity-info--title">
+                        <i class="fas fa-present-1"></i>
+                        <span>Firma de convenio de colaboraci&#243;n entre Fundaci&#243;n Ibercaja y K&#252;hnel</span>
+                    </h3>
+                                            <p>Publicado el 16 de julio del 2020 </p>
+                </div>
+        </a>
+     
+    </div>
+
+    </div>
+
+
+
+<div class="col-md-6">
+    <div class="Activity  ">
+
+        <a href="https://empresaenred.fundacionibercaja.es/es/quienes-somos/actualidad/el-futuro-del-turismo-en-espana-tras-el-covid19-en-el-punto-de-mira">
+                <div class="Activity-image">
+                    <div class="Activity-image--image">
+                        <img src="https://empresaenredcdn.fundacionibercaja.es/Present/A3927D1B87780A94F599998B2AEE4E97/AVATAR/FCA05E22BFB9D76D10FE1FCB5B203CF9/041ad62cd9d4009134352897d8bb3576f872a368@0470x0280.jpg" alt="El futuro del turismo en Espa&#241;a tras el COVID19  en el punto de mira" title="El futuro del turismo en Espa&#241;a tras el COVID19  en el punto de mira">
+                    </div>
+                </div>
+                <div class="Activity-info">
+                    <h3 class="Activity-info--title">
+                        <i class="fas fa-present-1"></i>
+                        <span>El futuro del turismo en Espa&#241;a tras el COVID19  en el punto de mira</span>
+                    </h3>
+                                            <p>Publicado el 20 de mayo del 2020 </p>
+                </div>
+        </a>
+     
+    </div>
+
+    </div>
+
+
+
+<div class="col-md-6">
+    <div class="Activity  ">
+
+        <a href="https://empresaenred.fundacionibercaja.es/es/quienes-somos/actualidad/fundacion-ibercaja-acompana-a-los-profesionales-y-a-las-empresas-con-un-mentoring-personalizado-para-afrontar-el-postcovid19">
+                <div class="Activity-info">
+                    <h3 class="Activity-info--title">
+                        <i class="fas fa-present-1"></i>
+                        <span>Fundaci&#243;n Ibercaja acompa&#241;a a los profesionales y a las empresas con un mentoring personalizado para afrontar el postCOVID19</span>
+                    </h3>
+                                            <p>Publicado el 11 de mayo del 2020 </p>
+                </div>
+        </a>
+     
+    </div>
+
+    </div>
+
+
+
+<div class="col-md-6">
+    <div class="Activity  ">
+
+        <a href="https://empresaenred.fundacionibercaja.es/es/quienes-somos/actualidad/yocedomicoche-una-colaboracion-entre-dos-organizaciones-aragonesas-para-ayudar-durante-la-crisis-sanitaria">
+                <div class="Activity-info">
+                    <h3 class="Activity-info--title">
+                        <i class="fas fa-present-1"></i>
+                        <span>#YoCedoMiCoche, una colaboraci&#243;n entre dos organizaciones aragonesas para ayudar durante la crisis sanitaria </span>
+                    </h3>
+                                            <p>Publicado el 07 de abril del 2020 </p>
+                </div>
+        </a>
+     
+    </div>
+
+    </div>
+
+
+            </div>
+
+            
+
+
+<div class="TweetLine">
+
+    <h2><a href="/es/quienes-somos/redessociales">Sigue la actualidad en Twitter</a></h2>
+
+
+
+<div class="Tweet">
+    <div class="Tweet-image">
+
+
+        <img src="https://pbs.twimg.com/profile_images/1268889500610158597/QyOfsrGf_400x400.jpg" />
+    </div>
+    <div class="Tweet-content">
+        <div>
+                <span class="Tweet-content--name">Fundaci&#243;n Ibercaja</span> <a class="Tweet-content--handle" href="https://www.twitter.com/IbercajaSocial" target="_blank">@IbercajaSocial</a>
+        </div>
+
+        <a class="Tweet-content-description" href="https://twitter.com/IbercajaSocial/status/1288754830006276098" target="_blank">
+            La Ministra de @mincoturgob, @MarotoReyes, comparti&#243; su visi&#243;n de la actualidad en una nueva cita de los #DesayunosInformativos de @europapress, un espacio de encuentro y di&#225;logo en el que colaboramos junto a otras entidades para abordar los temas de actualidad de nuestro pa&#237;s. https://t.co/DSwnULlGWI
+        </a>
+    </div>
+    <div class="Tweet-date">
+        <span>
+            30 jul. 2020
+        </span>
+    </div>
+</div>
+
+
+<div class="Tweet">
+    <div class="Tweet-image">
+
+
+        <img src="https://pbs.twimg.com/profile_images/1268889500610158597/QyOfsrGf_400x400.jpg" />
+    </div>
+    <div class="Tweet-content">
+        <div>
+                <span class="Tweet-content--name">Fundaci&#243;n Ibercaja</span> <a class="Tweet-content--handle" href="https://www.twitter.com/IbercajaSocial" target="_blank">@IbercajaSocial</a>
+        </div>
+
+        <a class="Tweet-content-description" href="https://twitter.com/IbercajaSocial/status/1287794672170147842" target="_blank">
+            CONVENIO &#128221;  @IbercajaSocial y el @GobAragon a trav&#233;s del @IAF_Aragon y de la Fundaci&#243;n Emprender, han firmado dos convenios de colaboraci&#243;n para la realizaci&#243;n de actividades divulgativas dirigidas al colectivo de emprendedores y microempresas aragonesas. https://t.co/7lbNaAwbhA
+        </a>
+    </div>
+    <div class="Tweet-date">
+        <span>
+            27 jul. 2020
+        </span>
+    </div>
+</div>
+
+
+<div class="Tweet">
+    <div class="Tweet-image">
+
+
+        <img src="https://pbs.twimg.com/profile_images/1268889500610158597/QyOfsrGf_400x400.jpg" />
+    </div>
+    <div class="Tweet-content">
+        <div>
+                <span class="Tweet-content--name">Fundaci&#243;n Ibercaja</span> <a class="Tweet-content--handle" href="https://www.twitter.com/IbercajaSocial" target="_blank">@IbercajaSocial</a>
+        </div>
+
+        <a class="Tweet-content-description" href="https://twitter.com/IbercajaSocial/status/1286365125126037504" target="_blank">
+            CONVENIO &#128221;  
+
+Renovamos el convenio con @cepymearagon para dar continuidad al desarrollo de la plataforma online #IbercajaOrienta, un programa referente en la comunidad educativa de orientaci&#243;n acad&#233;mico-profesional. https://t.co/rxv1DC30xT
+        </a>
+    </div>
+    <div class="Tweet-date">
+        <span>
+            23 jul. 2020
+        </span>
+    </div>
+</div>
+
+</div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="AlertsPersonalized">
+
+    <div class="container">
+        <span class="AlertsPersonalized-title">
+            AVISOS PERSONALIZADOS
+        </span>
+        <span class="AlertsPersonalized-subtitle">
+            &#191;Te gustar&#237;a recibir avisos personalizados sobre temas de tu inter&#233;s?
+        </span>
+            <a href="javascript:void(0)"
+               data-toggle="modal"
+               class="btn"
+               onclick="Func_PreModal_On($(this),'register');"
+               data-target="[data-modal]"
+               data-js-action="javascript:window.location.href='/es/login?ReturnUrl=%2Fes%2Fperfil%2Favisos';"
+               value="true"
+               data-action="Debes estar registrado para realizar esta acci&#243;n."><i class="fas fa-bell"></i> Crear Aviso</a>
+    </div>
+
+    <span class="AlertsPersonalized-backgroundText">AVISOS</span>
+
+</div>
+
+
+
+
+
+<div id="track_modal_confirm" data-modal class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header" style="text-align:center;">
+                
+                <h4 id="track_modal_confirm_title" class="modal-title">Atenci&#243;n</h4>
+            </div>
+            <div class="modal-body" style="text-align:center;">
+                <div data-modalcaption="">
+                    texto
+                </div>
+                <p></p>
+
+            </div>
+            <div class="modal-footer" style="text-align:center;">
+                <button id="cancelbtn" data-dismiss="modal" class="btn pull-left" onclick="if (ieVersion() > 0) { $('#track_modal_confirm').hide(); return false; }" type="button">Cancelar</button>
+                
+                <a href="#" data-modalurl="" id="btnokNormal" onclick="Action_OkButton_Modal($(this));" class="btn pull-right">Aceptar</a>
+                <a href="#" data-modalurl="" id="btnokRegister" onclick="Action_OkButton_Modal($(this));" class="btn pull-right" style="display: none;">Registrarse</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div id="track_modal_unauthorized"  class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header" style="text-align:center;">
+                
+                <h4 id="track_modal_confirm_title" class="modal-title">Atenci&#243;n</h4>
+            </div>
+            <div class="modal-body" style="text-align:center;">
+                <div data-modalcaption="">
+                    No tiene autorizaci&#243;n para realizar este tipo de acci&#243;n. Consulte con su administrador.
+                </div>
+                <p></p>
+
+            </div>
+            <div class="modal-footer" style="text-align:center;">
+                <button id="cancelbtn" data-dismiss="modal" class="btn center" style="width:100%; " type="button">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+        </main>
+
+
+        <!--=== Footer ===-->
+        <footer>
+    <div class="container">
+        <div class="Footer-left">
+            <img src="/ContentNew/Images/Logos/fundacion-logo.png" alt="Fundación Ibercaja" />
+            <p><span>Fundación Bancaria Ibercaja. C.I.F. G-50000652.</span>
+                
+            </p>
+            <p>
+                Inscrita en el Registro de Fundaciones del M&#186; de Educaci&#243;n, Cultura y Deporte con el n&#186; 1689. Domicilio social: Joaqu&#237;n Costa, 13. 50001 Zaragoza.
+                
+            </p>
+        </div>
+            <div class="Footer-right">
+                <ul>
+                    <li><a href="https://www.fundacionibercaja.es/contenidos/aviso-legal/" target="_blank" title="Aviso legal">Aviso legal</a></li>
+                    <li><a href="https://www.fundacionibercaja.es/contenidos/politica-de-privacidad/" target="_blank" title="Política de privacidad">Política de privacidad</a></li>
+                    <li><a href="https://www.fundacionibercaja.es/contenidos/politica-de-cookies/" target="_blank" title="Política de Cookies">Política de Cookies</a></li>
+                </ul>
+            </div>
+    </div>
+</footer>
+        <!--=== End Footer ===-->
+
+    </div>
+
+    <script src="/bundles/jquery?v=F-bE8alnqc0420PUx7_GI_KdetVdIRQ33ND8F9zrX_81"></script>
+
+    <script src="/bundles/jqueryval?v=CIHycW99iNbvw5-kuVESQh1wRjlPksVQy0-anrLafpc1"></script>
+
+    <script src="/bundles/bootstrap?v=ZuoweyQDIMNQ69ftRBphqldjwaTQXyTLyTAC4AEh1_w1"></script>
+
+    <script src="/bundles/plugins?v=frMSYBTaQXx_k9PXNrA-9a1rakkB86gEST6pu_afQ_81"></script>
+
+    <script src="/bundles/core?v=8fyETPE3iDxcVRSVFFsvohTrs1hxMRqJRWpAEnt59cw1"></script>
+
+    <script src="/bundles/dropzone?v=uzp44Oh0DXcBSYmL2Vf2Ibrtw80yoCWZbzn1xCjfnhU1"></script>
+
+    <script src="/bundles/assetmanager-dialog?v=4kcyghigiC1503odfrfc-A7w6q22GUrjNv9Hm3ftsQ01"></script>
+
+    
+
+    
+    <script type="text/javascript">
+        var $buoop = { required: { e: 0, f: -3, o: -3, s: -1, c: -3 }, insecure: true, api: 2018.07 };
+        function $buo_f() {
+            var e = document.createElement("script");
+            e.src = "//browser-update.org/update.min.js";
+            document.body.appendChild(e);
+        };
+        try { document.addEventListener("DOMContentLoaded", $buo_f, false) }
+        catch (e) { window.attachEvent("onload", $buo_f) }
+    </script>
+
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            App.init();
+            FancyBox.initFancybox();
+            Datepicker.initDatepicker();
+            SearchBack.init();
+
+            // URLs AJAX Methods
+            Custom.widgets.default_no_result_text = "No se han encontrado resultados";
+            Custom.widgets.default_single_text = "Selecciona una opci&#243;n";
+            Custom.widgets.default_multiple_text = "Selecciona una opci&#243;n";
+            Custom.widgets.default_text_loading = "Cargando";
+
+            //URLs Asset Manager
+            Custom.AssetManager.Url = '/es/assetmanager';
+
+            //URLs Localization
+            Custom.widgets.UrlGetCountrySub = '/widget/getcountrysub';
+            Custom.widgets.UrlGetCountrySub_N2 = '/widget/getcountrysub_n2';
+            Custom.widgets.UrlGetCountrySub_N3 = '/widget/getcountrysub_n3';
+            
+        });
+
+        track_core_notification.render({"clear":false});
+
+        $(document).ready(function () {
+            $('.mask_date').mask('00/00/0000');
+            $('.mask_time').mask('00:00:00.000');
+            $('.mask_date_time').mask('00/00/0000 00:00:00');
+
+            $('[data-toggle="tooltip"]').tooltip();
+
+            $("#mousedown").click(function () {
+                $('html, body').animate({
+                    scrollTop: $("#scrollpoint").offset().top - 125
+                }, 1000);
+            });
+
+            Track.Access.IsRegistered = false;
+        });
+
+        // EXTENSIÓN PARA FECHA Y TIME
+        // ------------------------------------------------------------------------------
+        Custom.Datepicker();
+
+        // TRANSLATE VALIDATION MESSAGES
+        // ------------------------------------------------------------------------------
+        jQuery.extend(jQuery.validator.messages, {
+            required: "El campo  es obligatorio",
+            remote: "Por favor, revisa el campo",
+            email: "El formato de email es incorrecto, ejemplo: direccion@ejemplo.com",
+            url: "URL no v&#225;lida: http://example.com",
+            date: "Introduce una fecha v&#225;lida",
+            dateISO: "Por favor, introduce una fecha v&#225;lida (ISO)",
+            number: "Por favor, introduce un n&#250;mero v&#225;lido",
+            digits: "Por favor, introduce solo d&#237;gitos",
+            equalTo: "Por favor, introduce el mismo valor",
+            accept: "Por favor, introduce un fichero con una extensi&#243;n v&#225;lida y comprueba que el fichero no est&#233; corrupto.",
+            form_error: "No se ha podido procesar, revisa el formulario.",
+            maxlength: jQuery.validator.format("La longitud m&#225;xima es de {0} caracteres"),
+            minlength: jQuery.validator.format("La longitud m&#237;nima es de {0} caracteres"),
+            rangelength: jQuery.validator.format("Por favor, el valor deber tener al menos {0} caracteres, y como m&#225;ximo {1}."),
+            range: jQuery.validator.format("Por favor, introduce un valor entre {0} y {1}."),
+            max: jQuery.validator.format("Por favor, introduce un valor menor o igual a {0}"),
+            min: jQuery.validator.format("Por favor, introduce un valor mayor o igual a {0}"),
+            file_type: "Fichero no v&#225;lido",
+            exceeds_the_limit_of_sending_of: "Superado el l&#237;mite de env&#237;o de {0} MB",
+            validFormatDatepicker: "Introduce una fecha v&#225;lida",
+            validateDateMin: "Introduce una fecha superior a {0}",
+            validateDateMax: "Introduce una fecha inferior a {0}",
+            validateDateMinMax: "Introduce una fecha entre {0} y {1}",
+            validateDateCompare: "Introduce una fecha {0} {1}",
+            validateDateToday: "hoy",
+            validateDateOther: "la otra fecha",
+            validateDateEQ: "igual a",
+            validateDateNE: "distinta de",
+            validateDateLT: "anterior a",
+            validateDateGT: "posterior a",
+            validateDateLE: "no posterior a",
+            validateDateGE: "no anterior a",
+            time: "El campo de tiempo debe tener el formato HH:MM:SS.mmm"
+        });
+
+        function setUrlManage(strUrlManage) {
+            if ($("body").data("seoidentity") != '' && $("body").data("seoentity") != '') {
+                strUrlManage = strUrlManage.replace('&SEOEntity=' + $("body").data("seoentity") + '&SEOEntityId=' + $("body").data("seoidentity"), '');
+                strUrlManage = strUrlManage + '&SEOEntity=' + $("body").data("seoentity") + '&SEOEntityId=' + $("body").data("seoidentity");
+            }
+            window.open(strUrlManage, '_blank');
+        }
+    </script>
+    <!--[if lt IE 9]>
+    <script src="~/Scripts/respond.js"></script>
+    <script src="~/Scripts/html5shiv.js"></script>
+    <script src="~/Scripts/placeholder-IE-fixes.js"></script>
+    <![endif]-->
+    
+    
+    
+<script>
+    $(document).ready(function () {
+        $('button.clear-fields').click(function (e) {
+            e.preventDefault();
+            $('div#search-form-mini input:not([type=checkbox]):not([type=hidden])').val('');
+            $('div#search-form-mini input[type=checkbox]:not([type=hidden])').prop('checked', false);
+            $('#search-form-mini button[type=submit]').prop('disabled', true);
+        });
+        $('[data-filter-header]').click(function (e) {
+            $('.Search').toggleClass('is-open');
+            if ($('.Search').hasClass('is-open')) {
+                $("#filters-button").html('OCULTAR FILTROS');
+                if ($(window).width() > 767) {
+                    var heightCollapse = 0;
+                    $('.Search-filter--content').children().each(function (i, e) {
+                        heightCollapse += $(e).outerHeight();
+                    })
+                    $('.Search-filter--content').animate({
+                        height: heightCollapse
+                    })
+                }
+            } else {
+                $("#filters-button").html('FILTRAR');
+                if ($(window).width() > 767) {
+                    $('.Search-filter--content').animate({
+                        height: 0
+                    })
+                }
+            }
+        });
+        $(document).on('click', '.Search-filter--header button', function () {
+            $(this).closest('.Search').toggleClass('is-open');
+            if ($('.Search').hasClass('is-open')) {
+                if ($(window).width() > 767) {
+                    var heightCollapse = 0;
+                    $('.Search-filter--content').children().each(function (i, e) {
+                        heightCollapse += $(e).outerHeight();
+                    })
+                    $('.Search-filter--content').animate({
+                        height: heightCollapse
+                    })
+                }
+            } else {
+                $("#filters-button").html('FILTRAR');
+                if ($(window).width() > 767) {
+                    $('.Search-filter--content').animate({
+                        height: 0
+                    })
+                }
+            }
+        })
+
+        
+
+        function isSearchable() {
+            var anyCheckMarked = false;
+            var anyTextFilled = false;
+            if ($('.Search-input input[type=checkbox]:checked').length > 0) {
+                anyCheckMarked = true;
+            }
+            if ($('.Search-input input[type=text]').filter(function () { return $.trim($(this).val()).length > 0 }).length > 0) {
+                anyTextFilled = true;
+            }
+            return anyCheckMarked || anyTextFilled;
+        }
+
+        
+        $('#search-form-mini button[type=submit]').prop('disabled', !isSearchable());
+
+        
+        $('#filt_txt_nv').keyup(function () { $('.Search-input input:not([type=submit]):not([type=hidden])').first().change(); });
+        $('.Search-input input:not([type=submit]):not([type=hidden])').change(function () {
+            var checkResult = isSearchable();
+            $('#search-form-mini button[type=submit]').prop('disabled', !checkResult);
+            if (!checkResult) {
+                $('#filt_txt_nv').addClass('input-validation-error');
+                $('#search_validation_message').show();
+            } else {
+                $('#filt_txt_nv').removeClass('input-validation-error');
+                $('#search_validation_message').hide();
+            }
+        });
+    });
+</script>
+
+    
+    <div id="track_loading" class="modal-backdrop fade in" style="display: none;"></div>
+    <div id="alerts"></div>
+
+    
+    
+
+</body>
+</html>
